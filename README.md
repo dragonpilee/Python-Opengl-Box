@@ -19,7 +19,7 @@ A simple, interactive 3D textured cube application built with Python, OpenGL, an
 ## Installation
 
 ### 1. Clone the repository
-git clone https://github.com/yourusername/opengl-cube.git
+git clone https://github.com/dragonpilee/Python-Opengl-Box.git
 cd opengl-cube
 
 ### 2. Install dependencies
