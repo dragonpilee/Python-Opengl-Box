@@ -72,4 +72,4 @@ The cube is drawn with texture coordinates mapping each face to the loaded textu
 
 ---
 
-Created by [Your Name]
+Created by Alan Cyril Sunny
