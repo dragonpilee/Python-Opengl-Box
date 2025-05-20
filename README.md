@@ -3,7 +3,6 @@
 ## Overview
 A simple, interactive 3D textured cube application built with Python, OpenGL, and GLFW. The application displays a rotating cube that can be manipulated using both keyboard controls and mouse movements.
 
-![OpenGL Cube Demo](https://github.com/yourusername/opengl-cube/raw/main/screenshot.png)
 
 ## Features
 - 3D textured cube rendering
